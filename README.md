@@ -1,2 +1,2 @@
 # Title
-template repo with my latex/R setup
+template repo with my basic setup
